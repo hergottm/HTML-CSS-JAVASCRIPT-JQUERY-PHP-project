@@ -1,2 +1,2 @@
-# HTML-CSS-JAVASCRIPT-JQUERY-PHP-project
+# Web-Dev-Projects
 name says it all...
