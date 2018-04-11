@@ -1,6 +1,6 @@
 body {
   background: #333;
-  color: white; }
+  color: #fff; }
 
 .navbar {
   border-bottom: #008ed6 3px solid;
@@ -24,14 +24,21 @@ body {
     opacity: 0.8; }
   #home-section .fa {
     color: #008ed6;
-    background: white;
+    background: #fff;
     padding: 4px;
     border-radius: 5px;
     font-size: 30px; }
 
-#explore-section .fa {
+#explore-section .fa, #share-section .fa {
   color: #fff;
   background: #333;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }
+
+#create-section .fa {
+  color: #008ed6;
+  background: #fff;
   padding: 4px;
   border-radius: 5px;
   font-size: 30px; }
